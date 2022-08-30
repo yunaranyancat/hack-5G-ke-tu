@@ -6,6 +6,7 @@ __OpenRAN__
 
 __Useful Links__ 
 - [awesome-5g](https://github.com/calee0219/awesome-5g)
+- [4G and 5G security notes](https://github.com/no0g/4G-and-5G-Security-Notes)
 - [5G RAN by ericsson](https://www.ericsson.com/en/ran)
 - [awesome-cellullar-hacking](https://github.com/Vault-Cyber-Security/awesome-cellular-hacking)
 - [another awesome-celullar-hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
@@ -28,3 +29,8 @@ __PDFs__
 
 __Slides__
 - [Presentation on 1G/2G/3G/4G/5G/Cellular & Wireless Technologies](https://www.slideshare.net/kaushal_kaith/3g-4g-5g)
+
+__Videos__
+- [Testing live 5G networks](https://www.youtube.com/watch?v=ISxrA-0qVQQ&ab_channel=ElectroRentEurope)
+- [Telecom Base Stations](https://www.youtube.com/watch?v=-WyyrKbUruA&ab_channel=SanyuanGroup)
+- 
