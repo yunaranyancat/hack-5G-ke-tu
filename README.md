@@ -19,6 +19,7 @@ __Useful Links__
 - [Hacking 2G and 3G - Overview](https://www.techrepublic.com/article/security-holes-in-2g-and-3g-networks-will-pose-a-risk-for-next-several-years/)
 
 __PDFs__
+- [Ericsson Whitepaper : Security in 5G RAN and core deployments](https://www.ericsson.com/49a5ea/assets/local/reports-papers/white-papers/ericsson-whitepaper-5gran.pdf)
 - [from 1G to 5G](https://its-wiki.no/images/c/c8/From_1G_to_5G_Simon.pdf)
 - [overview on generations of network](https://ijrest.net/downloads/volume-3/special-issue/ncrtct-16/pid-ijrest-3s1ncrtct2016037.pdf)
 - [Cellular Mobile Technologies (1G to 5G) and Massive MIMO](https://www.researchgate.net/publication/349493734_Cellular_Mobile_Technologies_1G_to_5G_and_Massive_MIMO)
