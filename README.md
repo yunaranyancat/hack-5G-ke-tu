@@ -33,4 +33,3 @@ __Slides__
 __Videos__
 - [Testing live 5G networks](https://www.youtube.com/watch?v=ISxrA-0qVQQ&ab_channel=ElectroRentEurope)
 - [Telecom Base Stations](https://www.youtube.com/watch?v=-WyyrKbUruA&ab_channel=SanyuanGroup)
-- 
