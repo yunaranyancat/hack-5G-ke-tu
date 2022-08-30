@@ -1,5 +1,9 @@
 # hack 5G ke tu?
-"hack 5g ke tu?" is an initiative to gather list of resources collected all over the internet in the pursuit of hacking 5G network
+"hack 5g ke tu?" is an initiative to gather and create list of resources collected all over the internet in the pursuit of hacking 5G network
+
+---
+
+## Useful References
 
 __OpenRAN__
 - [MCH conference talk by Karsten Nohl](https://www.youtube.com/watch?v=LRQsFTmWa2w&ab_channel=MCH2022) 
