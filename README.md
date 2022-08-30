@@ -1,5 +1,5 @@
 # hack 5G ke tu?
-"hack 5g ke tu?" is a project which contains list of resources collected all over the internet in the pursuit of hacking 5G network
+"hack 5g ke tu?" is an initiative to gather list of resources collected all over the internet in the pursuit of hacking 5G network
 
 __References__ 
 - [awesome-5g](https://github.com/calee0219/awesome-5g)
