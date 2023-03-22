@@ -36,3 +36,12 @@ __Slides__
 __Videos__
 - [Testing live 5G networks](https://www.youtube.com/watch?v=ISxrA-0qVQQ&ab_channel=ElectroRentEurope)
 - [Telecom Base Stations](https://www.youtube.com/watch?v=-WyyrKbUruA&ab_channel=SanyuanGroup)
+
+---
+
+After working in an environment that heavily deals with 5G network, here are resources that I think could help us understand more on the 5G/telco environment. 
+
+- [OSS and BSS in Telco](https://www.forest-interactive.com/blog/what-are-oss-and-bss/)
+- [Hacking Kurbenetes](https://github.com/cloudnative-security/hacking-kubernetes)
+- [Detecting False Base Stations](https://www.ericsson.com/en/blog/2018/6/detecting-false-base-stations-in-mobile-networks)
+- Azure , GCP, AWS , or any other clouds. 
